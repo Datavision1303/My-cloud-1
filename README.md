@@ -1,2 +1,2 @@
-# Process of Launching My First AWS EC2 Instance
+# Process of Creating and Launching My First AWS EC2 Instance
 
