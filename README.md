@@ -13,4 +13,4 @@
 - I selected the instance i wanted to connected to
 - I then clicked on "connect"
 - I then clicked on "EC2 Instance connect"
-- with my public IP address and username automatically populated, I then clicked on "connect" to connect to my instance
+- with my public IP address and username automatically populated, I then clicked on "connect" to connect to my instance.
