@@ -1,4 +1,4 @@
-# My Process of Creating and Launching My First AWS EC2 Instance:
+# Process of Creating and Launching My First AWS EC2 Instance:
 - I firstly signed in to the my AWS Management Console.
 - I then opened the EC2 console dashboard.
 - I then clicked on "Launch Instance."
@@ -9,7 +9,7 @@
 - I kept my network and storage setting options as default
 - I then reviewed my instance configuration and clicked "Launch."
 
-# My process of conecting to my First AWS EC2 Instance:
+# Process of connecting to my First AWS EC2 Instance:
 - I selected the instance i wanted to connected to
 - I then clicked on "connect"
 - I then clicked on "EC2 Instance connect"
